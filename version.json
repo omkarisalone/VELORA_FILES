@@ -5,19 +5,24 @@
       "bgmi": {
         "label": "BGMI",
         "download_url": "https://github.com/omkarisalone/VELORA_FILES/raw/main/VELORA.zip",
-        "checksum_sha256": "060a03a088508cb9870868f0779ba0ae2a590f3af17ee338fc12595bb2d37eb5"
+        "checksum_sha256": "060a03a088508cb9870868f0779ba0ae2a590f3af17ee338fc12595bb2d37eb5",
+        "changelog": [
+          "Initial release.",
+          "New gun skins added.",
+          "Fixed lobby crash on BGMI v4.3",
+          "Performance improvements"
+        ]
       },
       "pubgm": {
         "label": "PUBG Mobile",
         "download_url": "https://github.com/omkarisalone/VELORA_FILES/raw/main/VELORA_GL.zip",
-        "checksum_sha256": "15957b12ae04c3c3c618085d1210a3027efd838cbbad5521248bb0b9d7376273"
+        "checksum_sha256": "15957b12ae04c3c3c618085d1210a3027efd838cbbad5521248bb0b9d7376273",
+        "changelog": [
+          "Initial release.",
+          "New gun skins added.",
+          "Performance improvements"
+        ]
       }
-    },
-   "changelog": [
-  "Initial release.",
-  "New gun skins added.",
-  "Fixed lobby crash on BGMI v4.3",
-  "Performance improvements"
-]
+    }
   }
 }
